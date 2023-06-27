@@ -1,0 +1,20 @@
+{
+  "name": "End-To-End-Car-Price-Prediction",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "echo \"No build specified\" && exit 1",
+    "test": "echo \"No test specified\" && exit 1",
+    "start": "python app.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasserml/End-To-End-Car-Price-Prediction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nasserml/End-To-End-Car-Price-Prediction/issues"
+  },
+  "homepage": "https://github.com/nasserml/End-To-End-Car-Price-Prediction#readme"
+}
